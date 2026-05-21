@@ -131,6 +131,8 @@ docker login
 ```bash
 docker push <dockerhub-username>/<image-name>:<tag>
 ```
+Uploads Docker image to Docker Hub repository.
+Image can later be pulled from anywhere.
 
 # Final Understanding
 
